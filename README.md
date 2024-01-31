@@ -26,10 +26,10 @@
       
       + Jenny bắt đầu bằng việc tuyển dụng “runners” để giao bánh pizza mới từ Trụ sở chính của Pizza Runner (hay còn gọi là nhà của Jenny) và cũng sử dụng tối đa thẻ tín dụng của mình để trả cho các nhà phát triển tự do xây dựng một ứng dụng di động để nhận đơn đặt hàng từ khách hàng
 
-    - Available Data
+   - Available Data
 
-        + Bởi vì Jenny đã có vài năm kinh nghiệm làm nhà khoa học dữ liệu - cô ấy nhận thức rất rõ rằng việc thu thập dữ liệu sẽ rất quan trọng đối với sự phát triển kinh doanh của cô ấy.
+      + Bởi vì Jenny đã có vài năm kinh nghiệm làm nhà khoa học dữ liệu - cô ấy nhận thức rất rõ rằng việc thu thập dữ liệu sẽ rất quan trọng đối với sự phát triển kinh doanh của cô ấy.
 
-        + Cô ấy đã chuẩn bị cho chúng tôi một sơ đồ mối quan hệ thực thể trong thiết kế cơ sở dữ liệu của cô ấy nhưng cần hỗ trợ thêm để làm sạch dữ liệu và áp dụng một số tính toán cơ bản để cô ấy có thể chỉ đạo người chạy tốt hơn và tối ưu hóa hoạt động của Pizza Runner.
+      + Cô ấy đã chuẩn bị cho chúng tôi một sơ đồ mối quan hệ thực thể trong thiết kế cơ sở dữ liệu của cô ấy nhưng cần hỗ trợ thêm để làm sạch dữ liệu và áp dụng một số tính toán cơ bản để cô ấy có thể chỉ đạo người chạy tốt hơn và tối ưu hóa hoạt động của Pizza Runner.
 
-        + Tất cả các tập dữ liệu đều tồn tại trong pizza_runner lược đồ cơ sở dữ liệu - hãy đảm bảo đưa tham chiếu này vào tập lệnh SQL của bạn khi bạn bắt đầu khám phá dữ liệu và trả lời các câu hỏi nghiên cứu điển hình.
+      + Tất cả các tập dữ liệu đều tồn tại trong pizza_runner lược đồ cơ sở dữ liệu - hãy đảm bảo đưa tham chiếu này vào tập lệnh SQL của bạn khi bạn bắt đầu khám phá dữ liệu và trả lời các câu hỏi nghiên cứu điển hình.
